@@ -7,6 +7,7 @@
    * [Demo Video](#demo-video)
 * [Installation Guide for Open Source Developers](#installation-guide-for-open-source-developers)
 * [User Manual](#user-manual)
+* [Wiki](#wiki)
 * [Resources](#resources)
 * [Developers](#developers)
 
@@ -80,6 +81,9 @@ The *Dance without Music* mode features four unique dance moves: *two-step, spin
 To go back to the home screen, simply press the home button in the top right corner. 
 
 *Thank you again for choosing the DJ SmartCar system, the most entertaining SmartCar on the market!* 
+
+## Wiki
+For access to documentation created during the course of this project, please click [here](https://github.com/DIT112-V20/group-06/wiki). 
 
 ## Resources
 ### Smartcar Platform Hardware
